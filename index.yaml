@@ -1,0 +1,100 @@
+apiVersion: v1
+entries:
+  consul:
+  - apiVersion: v1
+    appVersion: 1.7.3
+    created: "2020-06-02T13:16:41.584951+08:00"
+    description: Official HashiCorp Consul Chart
+    digest: 9ac58b6ab65e1230de64df0b23f1777b154f4f16d056934ff4e17e5902799505
+    home: https://www.consul.io
+    name: consul
+    sources:
+    - https://github.com/hashicorp/consul
+    - https://github.com/hashicorp/consul-helm
+    - https://github.com/hashicorp/consul-k8s
+    urls:
+    - https://ryansiu1995.github.io/hashicorp-helm/consul/consul-0.21.0.tgz
+    version: 0.21.0
+  - apiVersion: v1
+    appVersion: 1.7.2
+    created: "2020-06-02T13:16:41.581678+08:00"
+    description: Official HashiCorp Consul Chart
+    digest: a3ef4cd62d1983fed070f9dd27551f405554fcbc9d118e790bc3adf82f69b66b
+    home: https://www.consul.io
+    name: consul
+    sources:
+    - https://github.com/hashicorp/consul
+    - https://github.com/hashicorp/consul-helm
+    - https://github.com/hashicorp/consul-k8s
+    urls:
+    - https://ryansiu1995.github.io/hashicorp-helm/consul/consul-0.20.1.tgz
+    version: 0.20.1
+  - apiVersion: v1
+    created: "2020-06-02T13:16:41.577242+08:00"
+    description: Install and configure Consul on Kubernetes.
+    digest: 6b5ebc7d17193da65c5b23b508d9528f9db3b0d2373f95606b91aa35abb2ff1b
+    home: https://www.consul.io
+    name: consul
+    sources:
+    - https://github.com/hashicorp/consul
+    - https://github.com/hashicorp/consul-helm
+    - https://github.com/hashicorp/consul-k8s
+    urls:
+    - https://ryansiu1995.github.io/hashicorp-helm/consul/consul-0.20.0.tgz
+    version: 0.20.0
+  - apiVersion: v1
+    created: "2020-06-02T13:16:41.573789+08:00"
+    description: Install and configure Consul on Kubernetes.
+    digest: 1d73d46e981b9e6447f72751044b8f2d0333156cc6c6e12f1b1dd6ac48deffd8
+    home: https://www.consul.io
+    name: consul
+    sources:
+    - https://github.com/hashicorp/consul
+    - https://github.com/hashicorp/consul-helm
+    - https://github.com/hashicorp/consul-k8s
+    urls:
+    - https://ryansiu1995.github.io/hashicorp-helm/consul/consul-0.19.0.tgz
+    version: 0.19.0
+  - apiVersion: v1
+    created: "2020-06-02T13:16:41.570578+08:00"
+    description: Install and configure Consul on Kubernetes.
+    digest: e3a108f1876e1039a609af072df30d08658c4a12a8739013a8f3d732fa5a6444
+    home: https://www.consul.io
+    name: consul
+    sources:
+    - https://github.com/hashicorp/consul
+    - https://github.com/hashicorp/consul-helm
+    - https://github.com/hashicorp/consul-k8s
+    urls:
+    - https://ryansiu1995.github.io/hashicorp-helm/consul/consul-0.18.0.tgz
+    version: 0.18.0
+  vault:
+  - apiVersion: v2
+    created: "2020-06-02T13:16:41.589254+08:00"
+    description: Install and configure Vault on Kubernetes.
+    digest: 2d1676b82d73cd2d2465c1c8d6fb25e83b894ff4022795982b5b17b86dd4c6af
+    home: https://www.vaultproject.io
+    icon: https://github.com/hashicorp/vault/raw/f22d202cde2018f9455dec755118a9b84586e082/Vault_PrimaryLogo_Black.png
+    name: vault
+    sources:
+    - https://github.com/hashicorp/vault
+    - https://github.com/hashicorp/vault-helm
+    - https://github.com/hashicorp/vault-k8s
+    urls:
+    - https://ryansiu1995.github.io/hashicorp-helm/vault/vault-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v2
+    created: "2020-06-02T13:16:41.586388+08:00"
+    description: Install and configure Vault on Kubernetes.
+    digest: fa7bc6f74386794547eb2796683e6c3d4fb2588821a5c1b5837131260f3edb09
+    home: https://www.vaultproject.io
+    icon: https://github.com/hashicorp/vault/raw/f22d202cde2018f9455dec755118a9b84586e082/Vault_PrimaryLogo_Black.png
+    name: vault
+    sources:
+    - https://github.com/hashicorp/vault
+    - https://github.com/hashicorp/vault-helm
+    - https://github.com/hashicorp/vault-k8s
+    urls:
+    - https://ryansiu1995.github.io/hashicorp-helm/vault/vault-0.4.0.tgz
+    version: 0.4.0
+generated: "2020-06-02T13:16:41.566628+08:00"
